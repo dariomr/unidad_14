@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+    <title>Sindicacion</title>
+    <link>https://dariomr.github.io/unidad_14/</link>
+    <description>Trabajo de sindicacion</description>
+    <language>es-es</language>
+    <item>
+        <title>Día 2 de abril</title>
+        <link>https://dariomr.github.io/unidad_14/2abril.html</link>
+        <description>Joker y tapón de oído</description>
+    </item>
+    <item>
+        <title>Día 3 de abril</title>
+        <link>https://dariomr.github.io/unidad_14/3abril.html</link>
+        <description>Otitis y La Casa de Papel</description>
+    </item>
+    <item>
+        <title>Día 6 de abril</title>
+        <link>https://dariomr.github.io/unidad_14/6abril.html</link>
+        <description>Charla con los amigos</description>
+    </item>
+    <item>
+        <title>Día 7 de abril</title>
+        <link>https://dariomr.github.io/unidad_14/7abril.html</link>
+        <description>Estados Unidos y el coronavirus</description>
+    </item>
+    <item>
+        <title>Día 8 de abril</title>
+        <link>https://dariomr.github.io/unidad_14/8abril.html</link>
+        <description>Computación cuántica</description>
+    </item>
+    <item>
+        <title>Día 9 de abril</title>
+        <link>https://dariomr.github.io/unidad_14/9abril.html</link>
+        <description>Restos romanos en el coso</description>
+    </item>
+    <item>
+        <title>Día 10 de abril</title>
+        <link>https://dariomr.github.io/unidad_14/10abril.html</link>
+        <description>La música de los 80</description>
+    </item>
+</channel>
+</rss>
